@@ -1,0 +1,22 @@
+/* CSS RESET */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+/* box styling */
+.box {
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 5px;
+
+
+}
+
+
